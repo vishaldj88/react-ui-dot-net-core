@@ -1,7 +1,9 @@
-# react-ui-dot-net-core  React Redux CRUD App example with Axios and Rest API
+# React Redux CRUD App example with Axios and Rest API
 
-React UI and .net Core api integrated with AXIOS 
-Application Created for learning of react skill 
+Application Created for learning and showcase of react skill 
+
+
+
 
 ### Start Setup instructions:
 
@@ -39,10 +41,3 @@ yarn start
 Open [http://localhost:8099](http://localhost:8099) to view it in the browser.
 
 The page will reload if you make edits.
-
-
-# User-API 
-
-Open in visual Studio Set User.Api as Start up Project and resolve nuget dependencies build and run . 
-
-Once Sucessfully started browser will Open [http://localhost:5000/swagger](http://localhost:5000/swagger) you can see all API's there.

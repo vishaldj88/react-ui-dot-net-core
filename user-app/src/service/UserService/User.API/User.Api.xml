@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>User.Api</name>
+    </assembly>
+    <members>
+        <member name="T:User.Api.Gender">
+            <summary>
+            Gender Enum
+            </summary>
+        </member>
+        <member name="F:User.Api.Gender.Unknown">
+            <summary>
+            Unknown
+            </summary>
+        </member>
+        <member name="F:User.Api.Gender.Male">
+            <summary>
+            Male
+            </summary>
+        </member>
+        <member name="F:User.Api.Gender.Female">
+            <summary>
+            Female
+            </summary>
+        </member>
+        <member name="T:User.Api.Repository.IUserRepository">
+            <summary>
+            User Repository
+            </summary>
+        </member>
+    </members>
+</doc>
